@@ -7,8 +7,8 @@ def start():
     p2=letter[0]
     print("player 1 is {} and player 2 is {} ".format(p1,p2))
     print(game_board(board))
-#      player 1 date is processed when i is 1 and when i = 0 player 2 data is processed 
-#      var z to calculate the number of successful data entry and filled fields
+#      player 1 data is processed when i is 1 and when i = 0 player 2 data is processed 
+#      variable z to calculate the number of successful data entry and filled fields 
     i=1
     z =1
     while True : 
